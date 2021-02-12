@@ -1,0 +1,5 @@
+*.in
+__pycache__/
+Day7*
+Day19_2_alt_slow.py
+Day20*
